@@ -31,7 +31,7 @@ public class CCuenta {
     }
 
     /**
-     * @param añade una cuenta
+     * @param cuenta añade un numero de cuenta
      */
     public void setCuenta(String cuenta) {
         this.cuenta = cuenta;
@@ -45,7 +45,7 @@ public class CCuenta {
     }
 
     /**
-     * @param añade saldo a la cuenta
+     * @param saldo añade saldo
      */
     public void setSaldo(double saldo) {
         this.saldo = saldo;
